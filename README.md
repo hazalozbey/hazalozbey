@@ -21,6 +21,8 @@
 
 <br />
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="hazal | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -44,6 +46,8 @@
 
 
 
+
+<br />
 
 ### Thanks for 👋
 
