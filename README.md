@@ -21,7 +21,7 @@
 
 #### 🎸 I can play the guitar , flute and the ukulele.
 
-#### 🎥 My favorite series are   ⚡Harry Potter⚡ "The Last Airbender" and "Rick and Morty".
+#### 🎥 My favorite series are   ⚡Harry Potter⚡  "The Last Airbender"  and  "Rick and Morty".
 
 <br />
 
