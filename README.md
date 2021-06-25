@@ -42,7 +42,7 @@
 <img align="left" alt="MySQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/mysql.svg" />
 
 
-<br />
+
 
 
 
