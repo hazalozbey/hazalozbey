@@ -6,7 +6,7 @@
 
 
 
-<img align="left" alt="anka kusu" width="200px" src="https://github.com/hazalozbey/png/blob/main/Anka-Kusu-56653.gif" />
+<img align="left" alt="anka kusu" width="200px" src="https://github.com/hazalozbey/svg/blob/main/Anka-Kusu-56653.gif" />
 
 
 
@@ -34,11 +34,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="75px" src="https://github.com/hazalozbey/png/blob/main/Python.png" />
-<img align="left" alt="java" width="75px" src="https://github.com/hazalozbey/png/blob/main/java.png" />
-<img align="left" alt="C" width="75px" src="https://github.com/hazalozbey/png/blob/main/396-3965857_c-c-programming-language-logo-clipart.png" />
-<img align="left" alt="PostgreSQL" width="75px" src="https://github.com/hazalozbey/png/blob/main/postgresql.png" />
-<img align="left" alt="MySQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="python" width="75px" src="https://github.com/hazalozbey/svg/blob/main/python.svg" />
+<img align="left" alt="java" width="75px" src="https://github.com/hazalozbey/svg/blob/main/java.svg" />
+<img align="left" alt="C" width="75px" src="https://github.com/hazalozbey/svg/blob/main/c-programming.svg" />
+<img align="left" alt="PostgreSQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/postgresql.svg" />
+<img align="left" alt="MySQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/mysql.svg" />
 
 
 <br />
