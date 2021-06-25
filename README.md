@@ -39,19 +39,6 @@
 <br />
 
 
-
-
-
-
-<img align="left" alt="hazal | outlook" width="40px" src="https://github.com/hazalozbey/svg/blob/main/outlook.svg" />
-# -hazalozbey@outlook.com
-
-
-
-
-
-
-
 <br />
 
 ### Languages and Tools:
