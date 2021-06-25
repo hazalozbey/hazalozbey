@@ -39,7 +39,14 @@
 <br />
 
 
+
+
+
+
 <img align="left" alt="hazal | outlook" width="40px" src="https://github.com/hazalozbey/svg/blob/main/outlook.svg" />
+# -hazalozbey@outlook.com
+
+
 
 
 
@@ -70,4 +77,4 @@
 [twitter]: https://twitter.com/HazalZBEY6
 [instagram]: https://www.instagram.com/hzl_ozbey/
 [linkedin]: https://www.linkedin.com/in/hazalozbey/
-[Mail]:hazalozbey@outlook.com
+
