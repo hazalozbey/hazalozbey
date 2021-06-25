@@ -8,7 +8,7 @@
 <img align="left" alt="anka kusu" width="200px" src="https://github.com/hazalozbey/svg/blob/main/Anka-Kusu-56653.gif" />
 
 
-<br />
+
 
 #### 👫 I will be married soon! ❤️
  
