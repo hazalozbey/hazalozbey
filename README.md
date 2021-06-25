@@ -2,11 +2,14 @@
 ### Hi there, I'm HAZAL  👋
 
 
+## I'm  a computer engineer.🎓
+
+
+
 <img align="left" alt="anka kusu" width="60px" src="https://github.com/hazalozbey/png/blob/main/Anka-Kusu-56653.gif" />
 
 
 
-## I'm  a computer engineer.🎓
 
 
 
