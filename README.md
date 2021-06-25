@@ -33,7 +33,7 @@
 [<img align="left" alt="hazal | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hazal | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+
 
 ### Languages and Tools:
 
@@ -44,7 +44,11 @@
 <img align="left" alt="MySQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/mysql.svg" />
 
 
-<br />
+
+
+
+
+
 <br />
 
 ---
