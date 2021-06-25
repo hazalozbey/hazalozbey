@@ -65,15 +65,9 @@
 ### thanks for:
 
 
-
-
-https://github.com/anuraghazra
-
-
-
-https://github.com/codeSTACKr
-
-
+#### Source Code: https://github.com/codeSTACKr/codeSTACKr
+#### Blog Post Workflow: https://github.com/gautamkrishnar/blog-post-workflow
+#### GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
 
 <br />
 
