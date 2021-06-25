@@ -18,7 +18,6 @@
 
 #### 🎥 My favorite series are   ⚡Harry Potter⚡  "The Last Airbender"  and  "Rick and Morty".
 
-<br />
 
 <br />
 
@@ -41,10 +40,10 @@
 <img align="left" alt="MySQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/mysql.svg" />
 
 
-
-
-
 <br />
+
+
+
 
 ### Thanks for 👋
 
@@ -55,7 +54,7 @@
 
 
 
-<br />
+
 
 ---
 
