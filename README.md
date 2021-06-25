@@ -2,9 +2,10 @@
 ### Hi there, I'm HAZAL  👋
 
 
-## I'm  a computer engineer.🎓
+## I'm  a computer engineer🎓
 
-##I'm developing myself in the fields of data science and machine learning.##
+
+## I'm developing myself in the fields of data science and machine learning##
 
 
 <img align="left" alt="anka kusu" width="200px" src="https://github.com/hazalozbey/svg/blob/main/Anka-Kusu-56653.gif" />
