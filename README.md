@@ -21,9 +21,9 @@
 
 #### 🎸 I can play the guitar , flute and the ukulele.
 
-#### ⚡ My favorite movie "Harry Potter" .
+#### 🎥 My favorite movie ⚡Harry Potter⚡ .
 
-#### My favorite series are "The Last Airbender" and "Rick and Morty".
+#### 🎥 My favorite series are "The Last Airbender" and "Rick and Morty".
 
 
 ### Connect with me:
