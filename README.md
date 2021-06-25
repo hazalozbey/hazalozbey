@@ -12,9 +12,9 @@
 
 
 
-
-
 <br />
+
+
 #### 👫 I will be married soon! ❤️
  
 #### 🐱 I'm a cat mom.His name is "KÖPÜK"
@@ -24,8 +24,11 @@
 #### 🎥 My favorite movie ⚡Harry Potter⚡ .
 
 #### 🎥 My favorite series are "The Last Airbender" and "Rick and Morty".
+
 <br />
+
 <br />
+
 ### Connect with me:
 
 
@@ -34,6 +37,7 @@
 [<img align="left" alt="hazal | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 <br />
 
 ### Languages and Tools:
@@ -50,6 +54,7 @@
 
 
 <br />
+
 <br />
 
 ---
