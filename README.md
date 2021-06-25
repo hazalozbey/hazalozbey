@@ -26,9 +26,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="hazal | Twitter" width="40px" src="https://github.com/hazalozbey/png/blob/main/twitter.png" />][twitter]
-[<img align="left" alt="hazal | LinkedIn" width="40px" src="https://github.com/hazalozbey/png/blob/main/linkedin.png" />][linkedin]
-[<img align="left" alt="hazal | Instagram" width="40px" src="https://github.com/hazalozbey/png/blob/main/indir.jpg" />][instagram]
+[<img align="left" alt="hazal | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hazal | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hazal | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
