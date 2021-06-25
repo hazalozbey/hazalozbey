@@ -48,17 +48,17 @@
 <img align="left" alt="MySQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/mysql.svg" />
 
 
-
-
+<br />
 
 
 <br />
-
 ### thanks for:
 
 https://github.com/anuraghazra
 
 https://github.com/codeSTACKr
+
+<br />
 
 
 <br />
