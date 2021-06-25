@@ -40,7 +40,7 @@
 <img align="left" alt="PostgreSQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/postgresql.svg" />
 <img align="left" alt="MySQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/mysql.svg" />
 
-<br />
+
 
 
 
@@ -51,7 +51,7 @@
 #### Blog Post Workflow: https://github.com/gautamkrishnar/blog-post-workflow
 #### GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
 
-<br />
+
 
 
 <br />
