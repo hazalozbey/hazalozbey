@@ -54,6 +54,12 @@
 
 <br />
 
+### thanks for:
+[https://github.com/anuraghazra]
+
+[https://github.com/codeSTACKr]
+
+
 <br />
 
 ---
