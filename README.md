@@ -55,9 +55,10 @@
 <br />
 
 ### thanks for:
-[https://github.com/anuraghazra]
 
-[https://github.com/codeSTACKr]
+https://github.com/anuraghazra
+
+https://github.com/codeSTACKr
 
 
 <br />
