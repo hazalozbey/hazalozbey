@@ -1,19 +1,14 @@
 
 ### Hi there, I'm HAZAL  👋
 
-
 ## I'm  a computer engineer🎓
 
-
 ### I'm developing myself in the fields of data science and machine learning
-
 
 <img align="left" alt="anka kusu" width="200px" src="https://github.com/hazalozbey/svg/blob/main/Anka-Kusu-56653.gif" />
 
 
-
 <br />
-
 
 #### 👫 I will be married soon! ❤️
  
@@ -29,13 +24,11 @@
 
 ### Connect with me:
 
-
 [<img align="left" alt="hazal | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hazal | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hazal | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 <br />
 
@@ -47,17 +40,10 @@
 <img align="left" alt="PostgreSQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/postgresql.svg" />
 <img align="left" alt="MySQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/mysql.svg" />
 
-
-
-
 <br />
 
 
-
-
 <br />
-
-
 
 ### Thanks for 👋
 
@@ -66,11 +52,6 @@
 #### GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
 
 <br />
-
-
-
-
-
 
 
 <br />
