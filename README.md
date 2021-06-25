@@ -49,7 +49,8 @@
 
 <br />
 
-### Thanks for 👋
+
+# Thanks for 👋
 
 #### Source Code: https://github.com/codeSTACKr/codeSTACKr
 #### Blog Post Workflow: https://github.com/gautamkrishnar/blog-post-workflow
