@@ -6,20 +6,20 @@
 
 
 
-<img align="left" alt="anka kusu" width="100px" src="https://github.com/hazalozbey/png/blob/main/Anka-Kusu-56653.gif" />
+<img align="left" alt="anka kusu" width="200px" src="https://github.com/hazalozbey/png/blob/main/Anka-Kusu-56653.gif" />
 
 
 
 
 
 
-- 👫 I will be married soon! ❤️
-- 
-- 🐱 I'm a cat mom.His name is "KÖPÜK"
-- 
-- 🎸 I can play the guitar , flute and the ukulele.
-- 
-- ⚡ My favorite movie Harry Potter .
+# 👫 I will be married soon! ❤️
+ 
+# 🐱 I'm a cat mom.His name is "KÖPÜK"
+
+# 🎸 I can play the guitar , flute and the ukulele.
+
+# ⚡ My favorite movie Harry Potter .
 
 
 
