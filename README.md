@@ -19,11 +19,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="python" width="75px" src="https://github.com/hazalozbey/svg/blob/main/python.svg" />
-<img align="left" alt="hadoop" width="75px" src="https://github.com/hazalozbey/svg/blob/main/664px-Hadoop_logo.svg" />
-<img align="left" alt="apacheiceberg" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Apache_Iceberg_Logo.svg" />
-<img align="left" alt="spark" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Apache_Spark_logo.svg" />
-<img align="left" alt="kafka" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Apache_kafka.svg" />
-<img align="left" alt="trino" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Trino-logo-w-bk.svg" />
+<img align="left" alt="hadoop" width="100px" src="https://github.com/hazalozbey/svg/blob/main/664px-Hadoop_logo.svg" />
+<img align="left" alt="apacheiceberg" width="100px" src="https://github.com/hazalozbey/svg/blob/main/Apache_Iceberg_Logo.svg" />
+<img align="left" alt="spark" width="100px" src="https://github.com/hazalozbey/svg/blob/main/Apache_Spark_logo.svg" />
+<img align="left" alt="kafka" width="100px" src="https://github.com/hazalozbey/svg/blob/main/Apache_kafka.svg" />
+<img align="left" alt="trino" width="100px" src="https://github.com/hazalozbey/svg/blob/main/Trino-logo-w-bk.svg" />
 
 
 
