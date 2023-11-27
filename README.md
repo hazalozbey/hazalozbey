@@ -5,18 +5,19 @@
 
 
 
-<br />
+
 
 ### Connect with me:
 
 
 [<img align="left" alt="hazal | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+
 
 
 
  Languages and Tools:
+ 
 
 <img align="left" alt="python" width="75px" src="https://github.com/hazalozbey/svg/blob/main/python.svg" />
 <img align="left" alt="hadoop" width="80px" src="https://github.com/hazalozbey/svg/blob/main/hadoop-svgrepo-com.svg" />
@@ -33,10 +34,6 @@
 
 
 
-
-<br />
-<br />
-<br />
 
 Thanks for 👋
 
