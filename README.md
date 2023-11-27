@@ -1,7 +1,7 @@
 
- --Hi there, I'm HAZAL  👋
+### Hi there, I'm HAZAL  👋
 
- --I'm  a data engineer🎓
+### I'm  a data engineer🎓
 
 
 
@@ -16,7 +16,7 @@
 
 
 
- --Languages and Tools:
+### Languages and Tools:
  
 
 <img align="left" alt="python" width="75px" src="https://github.com/hazalozbey/svg/blob/main/python.svg" />
@@ -35,14 +35,11 @@
 
 
 
---Thanks for 👋
+### Thanks for 👋
 
 
 
 
-<br />
-
-<br />
 
 
 [linkedin]: https://www.linkedin.com/in/hazalozbey/
