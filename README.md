@@ -19,11 +19,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="python" width="75px" src="https://github.com/hazalozbey/svg/blob/main/python.svg" />
-<img align="left" alt="hadoop" width="75px" src="https://github.com/hazalozbey/svg/blob/main/hadoop-svgrepo-com.svg" />
-<img align="left" alt="apacheiceberg" width="100px" src="https://github.com/hazalozbey/svg/blob/main/apache-iceberg-seeklogo.com.svg" />
+<img align="left" alt="hadoop" width="80px" src="https://github.com/hazalozbey/svg/blob/main/hadoop-svgrepo-com.svg" />
+<img align="left" alt="apacheiceberg" width="110px" src="https://github.com/hazalozbey/svg/blob/main/apache-iceberg-seeklogo.com.svg" />
 <img align="left" alt="spark" width="75px" src="https://github.com/hazalozbey/svg/blob/main/apache-spark-5.svg" />
 <img align="left" alt="kafka" width="75px" src="https://github.com/hazalozbey/svg/blob/main/kafka-icon-svgrepo-com.svg" />
-<img align="left" alt="trino" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Trino.svg" />
+<img align="left" alt="trino" width="110px" src="https://github.com/hazalozbey/svg/blob/main/Trino.svg" />
 <img align="left" alt="airflow" width="75px" src="https://github.com/hazalozbey/svg/blob/main/airflow-svgrepo-com.svg" />
 
 
