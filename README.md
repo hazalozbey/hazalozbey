@@ -16,7 +16,7 @@
 
 
 
- Languages and Tools:
+ --Languages and Tools:
  
 
 <img align="left" alt="python" width="75px" src="https://github.com/hazalozbey/svg/blob/main/python.svg" />
@@ -35,7 +35,7 @@
 
 
 
-Thanks for 👋
+--Thanks for 👋
 
 
 
