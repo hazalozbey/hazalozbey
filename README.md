@@ -48,23 +48,5 @@
 
 
 
-
-
-
-
-
-<br>
-
-
-### BYE 👋
-
-
-</br>
-
-
-
-
-
-
 [linkedin]: https://www.linkedin.com/in/hazalozbey/
 
