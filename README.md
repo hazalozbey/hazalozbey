@@ -37,9 +37,6 @@
 <img align="left" alt="trino" width="110px" src="https://github.com/hazalozbey/svg/blob/main/Trino.svg" />
 <img align="left" alt="airflow" width="75px" src="https://github.com/hazalozbey/svg/blob/main/airflow-svgrepo-com.svg" />
 
-
-
-
 </br>
 
 
