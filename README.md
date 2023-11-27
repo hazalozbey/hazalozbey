@@ -1,7 +1,7 @@
 
- Hi there, I'm HAZAL  👋
+ --Hi there, I'm HAZAL  👋
 
- I'm  a data engineer🎓
+ --I'm  a data engineer🎓
 
 
 
