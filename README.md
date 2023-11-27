@@ -25,6 +25,7 @@
 
 <br>
 
+
 ### Languages and Tools:
  
 
@@ -38,13 +39,16 @@
 
 
 
+
 </br>
 
 
 
 <br>
 
+
 ### Thanks for 👋
+
 
 </br>
 
