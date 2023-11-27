@@ -1,7 +1,7 @@
 
 ### Hi there, I'm HAZAL  👋
 
-## I'm  a computer engineer🎓
+## I'm  a data engineer🎓
 
 
 
@@ -19,10 +19,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="python" width="75px" src="https://github.com/hazalozbey/svg/blob/main/python.svg" />
-<img align="left" alt="java" width="75px" src="https://github.com/hazalozbey/svg/blob/main/java.svg" />
-<img align="left" alt="C" width="75px" src="https://github.com/hazalozbey/svg/blob/main/c-programming.svg" />
-<img align="left" alt="PostgreSQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/postgresql.svg" />
-<img align="left" alt="MySQL" width="75px" src="https://github.com/hazalozbey/svg/blob/main/mysql.svg" />
+<img align="left" alt="hadoop" width="75px" src="https://github.com/hazalozbey/svg/blob/main/664px-Hadoop_logo.svg" />
+<img align="left" alt="apacheiceberg" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Apache_Iceberg_Logo.svg" />
+<img align="left" alt="spark" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Apache_Spark_logo.svg" />
+<img align="left" alt="kafka" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Apache_kafka.svg" />
+<img align="left" alt="trino" width="75px" src="https://github.com/hazalozbey/svg/blob/main/Trino-logo-w-bk.svg" />
 
 
 
@@ -47,8 +48,5 @@
 <br />
 
 
-
-[twitter]: https://twitter.com/HazalZBEY6
-[instagram]: https://www.instagram.com/hzl_ozbey/
 [linkedin]: https://www.linkedin.com/in/hazalozbey/
 
